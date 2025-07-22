@@ -37,3 +37,7 @@ a{
 	font-weight:light;
 	font-size:10px;
 }
+.media-icons{
+	display:flex;
+	gap:10px;
+}
